@@ -16,11 +16,5 @@
             <version>5.2.3-SNAPSHOT</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.wiremock</groupId>
-            <artifactId>wiremock</artifactId>
-            <scope>test</scope>
-        </dependency>
-
     </dependencies>
 </project>
