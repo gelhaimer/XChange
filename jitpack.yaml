@@ -1,0 +1,6 @@
+jdk:
+  - openjdk11
+
+build:
+  maven:
+    pom: xchange-binance/pom.xml
